@@ -32,6 +32,11 @@ ____
   + Firebird Base
   + SQL language
 
+### **Soft Skills:**
+![Analitical Mind](https://img.shields.io/badge/Analitical_Mind-ffee00?style=for-the-badge&logo=)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-blue?style=for-the-badge&logo=)
+![Adaptability](https://img.shields.io/badge/Adaptability-green?style=for-the-badge&logo=)
+![Creativity](https://img.shields.io/badge/Creativity-orange?style=for-the-badge&logo=)
 ____
 ### **Connect with me:**
 [<img src="github.svg" target='_blank' />](https://github.com/ArCher92)
