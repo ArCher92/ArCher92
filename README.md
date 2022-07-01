@@ -34,7 +34,7 @@ ____
 
 ____
 ### **Connect with me:**
-[<img src="github.svg" />](https://github.com/ArCher92)
+[<img src="github.svg" target='_blank' />](https://github.com/ArCher92)
 [<img src="linkedin.svg" />](https://www.linkedin.com/in/artur-cerednicenco-31528b1b3//)
 [<img src="facebook.svg" />](https://www.facebook.com/frysty.art/)
 [<img src="vk.svg" />](https://vk.com/id12720116)
