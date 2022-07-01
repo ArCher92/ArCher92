@@ -34,11 +34,11 @@ ____
 
 ____
 ### **Connect with me:**
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/artur-cerednicenco-31528b1b3//)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/frysty.art/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='facebook' height='40'>](https://vk.com/id12720116)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='facebook' height='40'>](https://join.skype.com/invite/jmh2bOg0gVCe)
+[<img src="github.svg" />](https://github.com/ArCher92)
+[<img src="linkedin.svg" />](https://www.linkedin.com/in/artur-cerednicenco-31528b1b3//)
+[<img src="facebook.svg" />](https://www.facebook.com/frysty.art/)
+[<img src="vk.svg" />](https://vk.com/id12720116)
+[<img src="skype.svg" />](https://join.skype.com/invite/jmh2bOg0gVCe)
 
 ____
 <details>
@@ -48,4 +48,3 @@ ____
     
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArCher92&layout=compact&theme=slateorange " />
 </details>
-
